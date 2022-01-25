@@ -1,8 +1,6 @@
-- 👋 Hi, I’m killer
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">if the time is relative everybody are nothing? and only everything are regards?</h1>
+
+[Stars](https://github.com/alexander695?tab=stars)
 
 <!---
 alexander695/alexander695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
