@@ -1,4 +1,4 @@
-<h1 align="center">if the time is relative everybody are nothing? and only everything are regards?</h1>
+<h1 align="center">The mankind it's getting dumber and dumber</h1
 
 
 <!---
