@@ -1,4 +1,4 @@
-<h1 align="center">Humanity is becoming more and more hypocritical</h1
+<h1 align="center">bruh?</h1
 
 
 <!---
